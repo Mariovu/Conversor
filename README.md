@@ -24,6 +24,7 @@ Ejecuta la aplicación.
 Selecciona la moneda de origen y la moneda de destino en los ComboBox.
 Ingresa la cantidad de dinero que deseas convertir en el TextField.
 La aplicación mostrará automáticamente el resultado de la conversión en la Label correspondiente.
+
 ### Contribución
 Este proyecto es de código abierto y se aceptan contribuciones. Si deseas contribuir al proyecto, sigue estos pasos:
 
