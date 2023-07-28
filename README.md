@@ -7,7 +7,9 @@ Soporte para múltiples monedas, incluyendo Peso Mexicano, Dólar, Euro, Libra E
 Interfaz gráfica intuitiva y fácil de usar.
 
 ## Capturas de Pantalla
-![image](https://github.com/Mariovu/Conversor/assets/47684710/959e0237-449c-4517-a4fe-880a86070556)
+![image](https://github.com/Mariovu/Conversor/assets/47684710/ba2dc64b-9eeb-4ce5-85a7-67397d4cf725)
+
+
 
 ## Requisitos del Sistema
 Java 8 o superior.
